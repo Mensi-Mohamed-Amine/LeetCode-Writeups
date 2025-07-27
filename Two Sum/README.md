@@ -13,7 +13,7 @@
 this Problem is pretty straightforward ,, we have an array and we should build an other array with size equal 2 that has the indexes of the two integers which their sum is the given target integer.
 for this challenge i liked the C solution,, i appeared mindblowing for me.
 
-## C Solution
+## C Solution (Two Sum Using Sort and Two Pointer Approach (Without Hash Map))
 
 ```c
 /**
@@ -96,7 +96,7 @@ class Solution:
         return []  # No solution found
 ```
 
-## Java Solution
+## Java Solution (Bruteforce)
 
 ```java
 class Solution {
